@@ -12,11 +12,6 @@
             "role": "Developer"
         }
     ],
-    "support": {
-        "email": "xyz",
-        "issues": "https://google.com",
-        "source": "https://google.com"
-    },
     "homepage": "https://google.com",
     "license": "none",
     "require": {
