@@ -14,6 +14,8 @@
 	$data = array();
 	$orderObj = new Order();
 
+	echo "TEST";
+
   	$request_method = getenv('REQUEST_METHOD');
   	//echo $request_method;
   	/*// Following didn't work
